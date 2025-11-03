@@ -1,4 +1,4 @@
-#Project members:  
+# Project members:  
 Mihkel Kulu, Norman Tolmats, Markus Kivimäe, Joonas Tiitson  
 
 # Bee Type Detection for Smart Beehive Monitoring

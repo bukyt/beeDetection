@@ -208,3 +208,6 @@ __marimo__/
 
 #data folder
 /data/*
+#model files
+*.pt
+/runs/*

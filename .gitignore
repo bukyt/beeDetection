@@ -211,3 +211,11 @@ __marimo__/
 #model files
 *.pt
 /runs/*
+
+#videos
+*.mp4
+*.avi
+
+/app/videos_input
+/app/videos_output
+/app/yolo_video_results

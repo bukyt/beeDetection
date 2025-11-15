@@ -47,7 +47,8 @@ def train_yolov8(dataset_path="../data", model_type="yolov8s", epochs=100, batch
         epochs=epochs,
         batch=batch_size,
         imgsz=640,
-        name="yolov8_bee_varroa_model"
+        name="yolov8_bee_varroa_model",
+        device=0  # Use GPU if available
     )
 
     print("[+] Training completed successfully.")
